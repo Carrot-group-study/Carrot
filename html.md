@@ -4,7 +4,7 @@
 [3.시맨틱 요소와 검색 엔진](https://github.com/Carrot-group-study/NextToCarrot/blob/main/html.md#3%EC%8B%9C%EB%A7%A8%ED%8B%B1-%EC%9A%94%EC%86%8C%EC%99%80-%EA%B2%80%EC%83%89-%EC%97%94%EC%A7%84) <br>
 [4.웹페이지의 구성하는 기본 태그](https://github.com/Carrot-group-study/NextToCarrot/blob/main/html.md#4%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80%EC%9D%98-%EA%B5%AC%EC%84%B1%ED%95%98%EB%8A%94-%EA%B8%B0%EB%B3%B8-%ED%83%9C%EA%B7%B8) <br>
 [5.텍스트 관련 태그](https://github.com/Carrot-group-study/NextToCarrot/blob/main/html.md#5-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EA%B4%80%EB%A0%A8-%ED%83%9C%EA%B7%B8) <br>
-[6.HTML의 핵심 개념인 Hyperlink](#6.html의-핵심-개념인-hyperlink) <br>
+[6.HTML의 핵심 개념인 Hyperlink](https://github.com/Carrot-group-study/NextToCarrot/blob/main/html.md#6html%EC%9D%98-%ED%95%B5%EC%8B%AC-%EA%B0%9C%EB%85%90%EC%9D%B8-hyperlink) <br>
 
 
 
