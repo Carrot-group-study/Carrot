@@ -1,6 +1,6 @@
 바로가기<br>
 [프런트엔드 개발자 학습 방향](https://github.com/Carrot-group-study/NextToCarrot/blob/main/html.md#1%ED%94%84%EB%9F%B0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%95%99%EC%8A%B5-%EB%B0%A9%ED%96%A5) <br>
-[HTML5기본문법](#2.html5-기본-문법) <br>
+[HTML5기본문법](https://github.com/Carrot-group-study/NextToCarrot/blob/main/html.md#2html5%EA%B8%B0%EB%B3%B8%EB%AC%B8%EB%B2%95) <br>
 [시맨틱 요소와 검색 엔진](#3.시맨틱-요소와-검색-엔진) <br>
 [웹페이지의 구성하는 기본 태그](#4.웹페이지의-구성하는-기본-태그) <br>
 [텍스트 관련 태그](#5.텍스트-관련-태그) <br>
