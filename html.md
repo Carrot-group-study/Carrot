@@ -89,26 +89,21 @@ Semantic Web이란?<br>
 </html>
 ```
 
-<!DOCTYPE html><br>
-  1)문서 형식 정의 태그(DTD, Document Type Definition)<br>
-    브라우저에게 출력할 문서의 형식 지정<br>
-  2)대소문자 구별 X<br>
-    대부분의 웹개발은 html5로 이루어진다. HTML5 DTD가 <!DOCTYPE html><br>
+1)문서 형식 정의 태그(DTD, Document Type Definition)<br>
+브라우저에게 출력할 문서의 형식 지정<br>
+대소문자 구별 X<br>
+대부분의 웹개발은 html5로 이루어진다. HTML5 DTD=<!DOCTYPE html><br>
 
-<html></html><br>
-  모든 요소의 부모요소 = <html></html>를 제외한 모든 요소는 html요소의 자식 요소<br>
-  따라서 모든 요소는 html요소 내부에 기술 단, DTD은 예외<br>
-  단 하나만 존재<br>
-
-    <head></head><br>
-      메타데이터 기술<br>
-      화면관련 요소 포함X<br>
-      단 하나만 존재<br>
-      title, style, link, script, meta-keywords, description, author, charset등<br>
-
-    <body></body><br>
-      메타데이터를 제외한 모든 요소가 포함되는 요소= 화면관련 및 구조관련 태그는 body요소의 자식요소<br>
-      단 하나만 존재<br>
+2)<html></html><br>
+	모든 요소의 부모요소 = <html></html>를 제외한 모든 요소는 html요소의 자식 요소. 따라서, 모든 요소는 html요소 내부에 기술 단, DTD는 예외. 하나만 존재<br>
+	
+	3)<head></head><br>
+		메타데이터 기술<br>
+		화면관련 요소 포함X<br>
+		단 하나만 존재<br>
+		title, style, link, script, meta-keywords, description, author, charset등<br>
+	4)<body></body><br>
+메타데이터를 제외한 모든 요소가 포함되는 요소= 화면관련 및 구조관련 태그는 body요소의 자식요소. 단, 하나만 존재<br>
       
 # 5. 텍스트 관련 태그
 제목 태그(semantic)
@@ -150,8 +145,8 @@ Hyperlink기능 => <a></a>요소가 담당<br>
   href="파일경로(절대경로,상대경로), fragment identifier, mailto:, script"<br>
   target="_self, _blank"<br>
 
-target="_blank"의 취약점<br>
-  1)피싱공격(Tabnabbing)<br>
-  2)피싱공격에 대비하여 rel="noopener noreferrer" 사용<br>
-  3)피싱공격의 원인 : window.opener.open()으로 창을 열면, 부모창 참조 가능<br>
-  4)"_blank"값을 가지는 a tag를 포함하여 area, base, form tag도 주의<br>
+**target="_blank"의 취약점**<br>
+ 1)피싱공격(Tabnabbing)<br>
+ 2)피싱공격에 대비하여 rel="noopener noreferrer" 사용<br>
+ 3)피싱공격의 원인 : window.opener.open()으로 창을 열면, 부모창 참조 가능<br>
+ 4)"_blank"값을 가지는 a tag를 포함하여 area, base, form tag도 주의<br>
