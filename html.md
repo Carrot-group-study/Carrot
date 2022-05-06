@@ -332,3 +332,24 @@ select tag / 선택 form 생성<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;optgroup tag / 옵션의 그룹화<br>
 
 # 10.웹페이지 레이아웃 태그
+공간을 나누는 태그, 의미가 있음<br>
+header<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nav<br>
+<br>
+section<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;article<br>
+<br>
+footer<br>
+<br>
+aside<br>
+<br>
+<br>
+<br>
+공간을 나누는 태그, 의미가 없음<br>
+div	block level<br>
+span	inline level<br>
+<br>
+<br>
+<br>
+자세한 내용은 display property를 참조
+![image](https://user-images.githubusercontent.com/93711762/167112143-e9b7128c-adaf-4766-aede-5ca189a61424.png)
