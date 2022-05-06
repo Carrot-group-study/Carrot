@@ -349,6 +349,7 @@ aside<br>
 공간을 나누는 태그, 의미가 없음<br>
 div	block level<br>
 span	inline level<br>
+
 자세한 내용은 display property를 참조
 <br>
 <br>
