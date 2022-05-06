@@ -248,24 +248,24 @@ tr의 자식태그인 th와 td태그의 속성으로 사용<br>
 <br>
 2.동영상
 ```
-	<!--<video
-		src="경로"
-		poster="동영상 대기중에 표시할 이미지 경로"
-		preload(재생전에 음악파일 모두 불러올지 여부)
-		autoplay(자동재생여부)
-		loop(반복재생여부)
-		controls(음악재생도구표시여부-브라우저마다상이)
-		width="너비지정"
-		height="높이지정">
-	</video>-->
+<!--<video
+	src="경로"
+	poster="동영상 대기중에 표시할 이미지 경로"
+	preload(재생전에 음악파일 모두 불러올지 여부)
+	autoplay(자동재생여부)
+	loop(반복재생여부)
+	controls(음악재생도구표시여부-브라우저마다상이)
+	width="너비지정"
+	height="높이지정">
+</video>-->
 ```
 3.음악
 ```
-	<!--<audio
-		src="경로"
-		preload
-		autoplay
-		loop
-		controls>
-	</audio>-->
+<!--<audio
+	src="경로"
+	preload
+	autoplay
+	loop
+	controls>
+</audio>-->
 ```
