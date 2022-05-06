@@ -312,7 +312,9 @@ tr의 자식태그인 th와 td태그의 속성으로 사용<br>
 |button|type|button|
 |||reset|
 |||submit|
+
 <br><br>
+
 <input type="button" value="log-in"><br>
 vs<br>
 <button type="button"></button><br>
