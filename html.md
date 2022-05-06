@@ -246,6 +246,7 @@ tr의 자식태그인 th와 td태그의 속성으로 사용<br>
 
 <br>
 2.동영상
+```
 <pre>
 <video
 	src="경로"
@@ -258,13 +259,11 @@ tr의 자식태그인 th와 td태그의 속성으로 사용<br>
 	height="높이지정">
 </video>
 </pre>
-
+```
 
 <br>
 3.음악
-
-<br>
-
+```
 <pre>
 <audio
 	src="경로"
@@ -274,3 +273,4 @@ tr의 자식태그인 th와 td태그의 속성으로 사용<br>
 	controls>
 </audio>
 </pre>
+```
