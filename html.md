@@ -225,9 +225,9 @@ Hyperlink기능 => <a></a>요소가 담당<br>
 
 <br>
 테이블 제목<br>
-<table></table>의 자식태그로 <caption></caption>사용<br>
+table의 자식태그로 <caption></caption>사용<br>
 *caption 테이블의 제목을 나타낸다(기본:가운데)<br><br>
-테이블 병합<br>
-<tr></tr>의 자식태그인 th와 td태그의 속성으로 사용<br>
+<br>테이블 병합<br>
+tr의 자식태그인 th와 td태그의 속성으로 사용<br>
 *colspan(해당 셀이 점유하는 "행-가로-왼쪽에서 오른쪽" 수 지정)<br>
 *rowspan(해당 셀이 점유하는 "열-세로-위에서 아래" 수 지정)<br>
