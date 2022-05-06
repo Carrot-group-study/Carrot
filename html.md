@@ -271,3 +271,28 @@ tr의 자식태그인 th와 td태그의 속성으로 사용<br>
 ```
 
 # 9.사용자와의 커뮤니케이션
+|tag|attribute|value|
+|input|type||
+|||button|
+|||checkbox|
+|||color|
+|||date|
+|||datetime|
+|||datetime-local|
+|||month|
+|||week|
+|||time|
+|||email|
+|||file|
+|||hidden|
+|||image|
+|||number|
+|||password|
+|||radio|
+|||range|
+|||reset|
+|||search|
+|||submit|
+|||tel|
+|||text|
+|||url|
