@@ -221,7 +221,7 @@ Hyperlink기능 => <a></a>요소가 담당<br>
 		<th>종류5</th>
 		<td>테이블 내용5</td>
 	</tr>
-</table>
+</table><br>
 
 <br>
 테이블 제목<br>
