@@ -273,7 +273,8 @@ tr의 자식태그인 th와 td태그의 속성으로 사용<br>
 # 9.사용자와의 커뮤니케이션
 |tag|attribute|value|
 |---|---|---|
-|form|||
+|form|action|"url"|
+||method|"get 또는 post"|
 
 |tag|attribute|value|
 |---|---|---|
