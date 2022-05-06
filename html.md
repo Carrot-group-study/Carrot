@@ -247,6 +247,8 @@ tr의 자식태그인 th와 td태그의 속성으로 사용<br>
 <br>
 2.동영상
 <br>
+```
+<pre>
 <video<br>
 	src="경로"<br>
 	poster="동영상 대기중에 표시할 이미지 경로"<br>
@@ -257,6 +259,8 @@ tr의 자식태그인 th와 td태그의 속성으로 사용<br>
 	width="너비지정"<br>
 	height="높이지정"><br>
 </video><br>
+</pre>
+```
 3.음악
 <br>
 <audio<br>
