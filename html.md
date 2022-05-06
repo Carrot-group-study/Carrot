@@ -278,8 +278,7 @@ tr의 자식태그인 th와 td태그의 속성으로 사용<br>
 
 |tag|attribute|value|
 |---|---|---|
-|input|type||
-|||text|
+|input|type|text|
 |||button|
 |||number|
 |||password|
@@ -307,6 +306,18 @@ tr의 자식태그인 th와 td태그의 속성으로 사용<br>
 |---|---|---|
 |textarea|rows|number|
 ||cols|number|
+
+|tag|attribute|value|
+|---|---|---|
+|button|type|button|
+|||reset|
+|||submit|
+<input type="button" value="log-in"><br>
+vs<br>
+<button type="button"></button><br>
+<br>	
+=>컨텐츠 포함 여부<br>
+
 <br>
 fieldset tag / 그룹화<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;legend tag / 그룹화된 컨텐츠의 제목정의<br>
