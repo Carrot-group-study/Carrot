@@ -8,6 +8,7 @@
 [5.텍스트 관련 태그](https://github.com/Carrot-group-study/NextToCarrot/blob/main/html.md#5-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EA%B4%80%EB%A0%A8-%ED%83%9C%EA%B7%B8) <br>
 [6.HTML의 핵심 개념인 Hyperlink](https://github.com/Carrot-group-study/NextToCarrot/blob/main/html.md#6html%EC%9D%98-%ED%95%B5%EC%8B%AC-%EA%B0%9C%EB%85%90%EC%9D%B8-hyperlink) <br>
 [7.목록, 표 형식을 위한 태그](https://github.com/Carrot-group-study/NextToCarrot/blob/main/html.md#7%EB%AA%A9%EB%A1%9D%EA%B3%BC-%ED%91%9C-%ED%98%95%EC%8B%9D-%ED%91%9C%ED%98%84%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%83%9C%EA%B7%B8)
+[8.멀티미디어(이미지, 동영상, 음악) 지원 태그]()
 
 
 
@@ -239,7 +240,7 @@ tr의 자식태그인 th와 td태그의 속성으로 사용<br>
 빈요소
 <img
 	src="경로"
-	alt="이미지표시가 안될 경우 나타내는 문장"
+	alt="이미지표시가 안될 경우 나타내는 문장">
 ```
 
 <br>
