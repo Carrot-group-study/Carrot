@@ -315,11 +315,11 @@ tr의 자식태그인 th와 td태그의 속성으로 사용<br>
 
 <br><br>
 
-<input type="button" value="log-in"><br>
+input type="button" value="log-in" <br>
 vs<br>
-<button type="button"></button><br>
+button type="button" /button <br>
 <br>	
-=>컨텐츠 포함 여부<br>
+=>컨텐츠를 포함할 수 있는가?<br>
 
 <br>
 fieldset tag / 그룹화<br>
