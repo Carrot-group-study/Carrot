@@ -302,3 +302,15 @@ tr의 자식태그인 th와 td태그의 속성으로 사용<br>
 |||submit|
 |||tel|
 |||url|
+
+|tag|attribute|value|
+|---|---|---|
+|textarea|rows|number|
+||cols|number|
+<br>
+fieldset tag / 그룹화<br>
+&nbsp;&nbsp;&nbsp;&nbsp;legend tag / 그룹화된 컨텐츠의 제목정의<br>
+
+select tag / 선택 form 생성<br>
+&nbsp;&nbsp;&nbsp;&nbsp;option tag / 옵션 생성<br>
+&nbsp;&nbsp;&nbsp;&nbsp;optgroup tag / 옵션의 그룹화<br>
