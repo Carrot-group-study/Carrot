@@ -11,7 +11,7 @@
 [7.목록, 표 형식을 위한 태그](https://github.com/Carrot-group-study/NextToCarrot/blob/main/html.md#7%EB%AA%A9%EB%A1%9D%EA%B3%BC-%ED%91%9C-%ED%98%95%EC%8B%9D-%ED%91%9C%ED%98%84%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%83%9C%EA%B7%B8)<br>
 [8.멀티미디어(이미지, 동영상, 음악) 지원 태그](https://github.com/Carrot-group-study/NextToCarrot/blob/main/html.md#8%EB%A9%80%ED%8B%B0%EB%AF%B8%EB%94%94%EC%96%B4%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%8F%99%EC%98%81%EC%83%81-%EC%9D%8C%EC%95%85-%EC%A7%80%EC%9B%90-%ED%83%9C%EA%B7%B8)<br>
 [9.사용자와의 커뮤니케이션](https://github.com/Carrot-group-study/NextToCarrot/blob/main/html.md#9%EC%82%AC%EC%9A%A9%EC%9E%90%EC%99%80%EC%9D%98-%EC%BB%A4%EB%AE%A4%EB%8B%88%EC%BC%80%EC%9D%B4%EC%85%98)<br>
-[10.웹페이지 레이아웃 태그]()<>
+[10.웹페이지 레이아웃 태그](https://github.com/Carrot-group-study/NextToCarrot/blob/main/html.md#10%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83-%ED%83%9C%EA%B7%B8)<br>
 
 
 
