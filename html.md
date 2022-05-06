@@ -272,10 +272,12 @@ tr의 자식태그인 th와 td태그의 속성으로 사용<br>
 
 # 9.사용자와의 커뮤니케이션
 |tag|attribute|value|
+|---|---|---|
 |input|type||
+|||text|
 |||button|
-|||checkbox|
-|||color|
+|||number|
+|||password|
 |||date|
 |||datetime|
 |||datetime-local|
@@ -286,13 +288,12 @@ tr의 자식태그인 th와 td태그의 속성으로 사용<br>
 |||file|
 |||hidden|
 |||image|
-|||number|
-|||password|
+|||color|
+|||checkbox|
 |||radio|
 |||range|
 |||reset|
 |||search|
 |||submit|
 |||tel|
-|||text|
 |||url|
