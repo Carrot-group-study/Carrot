@@ -239,35 +239,31 @@ tr의 자식태그인 th와 td태그의 속성으로 사용<br>
 1.이미지
 ```
 빈요소
-<!--<img
+<img
 	src="경로"
 	alt="이미지표시가 안될 경우 나타내는 문장">
--->
 ```
 
 <br>
 2.동영상
 <br>
 ```
-<!--<video
-	src="경로"
-	poster="동영상 대기중에 표시할 이미지 경로"
-	preload(재생전에 음악파일 모두 불러올지 여부)
-	autoplay(자동재생여부)
-	loop(반복재생여부)
-	controls(음악재생도구표시여부-브라우저마다상이)
-	width="너비지정"
-	height="높이지정">
-</video>-->
-```
+<video<br>
+	src="경로"<br>
+	poster="동영상 대기중에 표시할 이미지 경로"<br>
+	preload(재생전에 음악파일 모두 불러올지 여부)<br>
+	autoplay(자동재생여부)<br>
+	loop(반복재생여부)<br>
+	controls(음악재생도구표시여부-브라우저마다상이)<br>
+	width="너비지정"<br>
+	height="높이지정"><br>
+</video><br>
 3.음악
 <br>
-```
-<!--<audio
-	src="경로"
-	preload
-	autoplay
-	loop
-	controls>
-</audio>-->
-```
+<audio<br>
+	src="경로"<br>
+	preload<br>
+	autoplay<br>
+	loop<br>
+	controls><br>
+</audio><br>
