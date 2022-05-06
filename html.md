@@ -181,7 +181,6 @@ Hyperlink기능 => <a></a>요소가 담당<br>
 과거 레이아웃을 구성하는 경우에 사용
 현재 레이아웃은 영역관련 태그를 사용
 <br>
-```
 <table border="2"> <!--border="2"는 표의 구조를 직관적으로 확인하기 위해서 설정함.-->
 	<caption>제목1</caption>
 	<tr>
@@ -223,7 +222,7 @@ Hyperlink기능 => <a></a>요소가 담당<br>
 		<td>테이블 내용5</td>
 	</tr>
 </table>
-```
+
 <br>
 테이블 제목<br>
 <table></table>의 자식태그로 <caption></caption>사용<br>
