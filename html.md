@@ -152,3 +152,82 @@ Hyperlink기능 => <a></a>요소가 담당<br>
  2)피싱공격에 대비하여 rel="noopener noreferrer" 사용<br>
  3)피싱공격의 원인 : window.opener.open()으로 창을 열면, 부모창 참조 가능<br>
  4)"_blank"값을 가지는 a tag를 포함하여 area, base, form tag도 주의<br>
+
+# 7.목록과 표 형식 표현을 위한 태그
+목록<br>
+네비게이션 메뉴 생성 할 때 자주 사용<br>
+목록의 중첩(ol 안에 ul이 포함될 수 있고 ul안에 ol이 포함될 수 있다.)
+```
+<ul>
+<li></li>
+</ul>
+
+<ol>
+<li></li>
+</ol>
+```
+```
+	type 
+		1(숫자 일, 하나)
+		A(영문대문자, 에이)
+		a(영문소문자, 에이)
+		I(영문대문자, 아이)
+		i(영문소문자, 아이)
+	start
+	reversed
+```
+<br>
+표<br>
+과거 레이아웃을 구성하는 경우에 사용
+현재 레이아웃은 영역관련 태그를 사용
+```
+<table border="2"> <!--border="2"는 표의 구조를 직관적으로 확인하기 위해서 설정함.-->
+	<caption>제목1</caption>
+	<tr>
+		<th>종류1</th>
+		<th>종류2</th>
+		<th>종류3</th>
+		<th>종류4</th>
+		<th>종류5</th>
+	</tr>
+	<tr>
+		<td>테이블 내용1</td>
+		<td>테이블 내용2</td>
+		<td>테이블 내용3</td>
+		<td>테이블 내용4</td>
+		<td>테이블 내용5</td>
+	</tr>
+</table>
+<br>
+<table border="2"> <!--border="2"는 표의 구조를 직관적으로 확인하기 위해서 설정함.-->
+	<caption>제목2</caption>
+	<tr>
+		<th>종류1</th>
+		<td>테이블 내용1</td>
+	</tr>
+	<tr>
+		<th>종류2</th>
+		<td>테이블 내용2</td>
+	</tr>
+	<tr class="lightBlue">
+		<th>종류3</th>
+		<td>테이블 내용3</td>
+	</tr>
+	<tr>
+		<th>종류4</th>
+		<td>테이블 내용4</td>
+	</tr>
+	<tr>
+		<th>종류5</th>
+		<td>테이블 내용5</td>
+	</tr>
+</table>
+```
+![image](https://user-images.githubusercontent.com/93711762/167054194-f05e94ff-0e6b-4e5c-b92f-f8b6c8018c6d.png)
+테이블 제목<br>
+<table></table>의 자식태그로 <caption></caption>사용<br>
+*caption 테이블의 제목을 나타낸다(기본:가운데)<br>
+테이블 병합<br>
+<tr></tr>의 자식태그인 th와 td태그의 속성으로 사용<br>
+*colspan(해당 셀이 점유하는 "행-가로-왼쪽에서 오른쪽" 수 지정)<br>
+*rowspan(해당 셀이 점유하는 "열-세로-위에서 아래" 수 지정)<br>
