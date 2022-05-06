@@ -222,11 +222,10 @@ Hyperlink기능 => <a></a>요소가 담당<br>
 		<td>테이블 내용5</td>
 	</tr>
 </table>
-```
-![image](https://user-images.githubusercontent.com/93711762/167054194-f05e94ff-0e6b-4e5c-b92f-f8b6c8018c6d.png)
+<br>
 테이블 제목<br>
 <table></table>의 자식태그로 <caption></caption>사용<br>
-*caption 테이블의 제목을 나타낸다(기본:가운데)<br>
+*caption 테이블의 제목을 나타낸다(기본:가운데)<br><br>
 테이블 병합<br>
 <tr></tr>의 자식태그인 th와 td태그의 속성으로 사용<br>
 *colspan(해당 셀이 점유하는 "행-가로-왼쪽에서 오른쪽" 수 지정)<br>
